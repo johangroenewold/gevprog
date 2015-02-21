@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Lalala
+*.swp
+*.un~
+
 # C extensions
 *.so
 
